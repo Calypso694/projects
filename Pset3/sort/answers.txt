@@ -1,0 +1,18 @@
+sort1 uses: bubble sort
+
+How do you know?: bubble sort has the slowest timings
+when sorting random5000.txt by .2 seconds or so. Merge Sort
+is is the fastest out of the timings and even the example
+at the end of lecture showed just how fast merge sort was compared
+to bubble and selection sort. 
+
+sort2 uses: merge sort
+
+How do you know?: merge sort is the fastest of all the sorts
+timing wise. the timing differences from random1000 to random 5000
+are quite marginally different.
+
+sort3 uses: selection sort
+
+How do you know?: slection sort is the second slowest of the timings next to
+bubble sort. random5000.tx takes the longest on real and user.
