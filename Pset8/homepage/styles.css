@@ -1,0 +1,37 @@
+/* Set the background color and font for the entire body */
+body {
+    background-color: #f8f9fa;
+    /* Light gray background for a soft look */
+    font-family: Arial, sans-serif;
+    /* Use Arial font for readability */
+}
+
+/* Style for main headings (h1) */
+h1 {
+    color: #007bff;
+    /* Bright blue color for main headings */
+}
+
+/* Style for subheadings (h2) */
+h2 {
+    color: #343a40;
+    /* Dark gray color for subheadings */
+}
+
+/* Style for paragraphs */
+p {
+    font-size: 1.2em;
+    /* Slightly larger font size for better readability */
+}
+
+/* Style for navigation links */
+.nav-link {
+    color: #007bff !important;
+    /* Ensure navigation links are bright blue */
+}
+
+/* Hover effect for navigation links */
+.nav-link:hover {
+    text-decoration: underline;
+    /* Underline links on hover for better interaction feedback */
+}
